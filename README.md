@@ -51,13 +51,13 @@ The API supports both JSON and XML formats for requests and responses.
 Here are some examples of testing the API with Postman:
 
 **POST (JSON)**
-![POST JSON](Screen/POST-Methode.png.png)
+![POST JSON](Screen/POST-Methode.png)
 
 **POST (XML)**
-![POST XML](Screen/POST-methode(xml).png.png)
+![POST XML](Screen/POST-methode(xml).png)
 
 **PUT (XML)**
 ![PUT XML](Screen/PUT-Methode(xml).png)
 
 **DELETE**
-![DELETE](Screen/DELETE-Methode.png.png)
+![DELETE](Screen/DELETE-Methode.png)
